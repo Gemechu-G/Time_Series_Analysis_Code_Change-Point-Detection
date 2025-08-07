@@ -14,6 +14,7 @@ Project Structure
 The project follows a standard structure for data science and web development projects:
 
  Time_Series_Analysis_Code_Change-Point-Detection/
+ 
 ├── data/
 
 │   ├── raw/
