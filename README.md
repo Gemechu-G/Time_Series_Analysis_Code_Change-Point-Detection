@@ -15,21 +15,38 @@ The project follows a standard structure for data science and web development pr
 
  Time_Series_Analysis_Code_Change-Point-Detection/
 ├── data/
+
 │   ├── raw/
+
 │   └── processed/
+
 ├── notebooks/
+
 │   ├── 01_Data_Processing.ipynb
+
 │   └── 02_Bayesian_Change_Point_Model.ipynb
+
 ├── src/
+
 │   └── dashboard/
+
 │       ├── app.py
+
 │       ├── requirements.txt
+
 │       └── frontend/
+
 │           ├── public/
+
 │           ├── src/
+
 │           ├── package.json
+
 │           └── package-lock.json
+
+
 └── venv/
+
 
 Getting Started
 Follow these steps to set up and run the project locally.
