@@ -13,7 +13,7 @@ Frontend: A React application that consumes the API and displays the interactive
 Project Structure
 The project follows a standard structure for data science and web development projects:
 
-brent-oil-analysis/
+ Time_Series_Analysis_Code_Change-Point-Detection/
 ├── data/
 │   ├── raw/
 │   └── processed/
@@ -46,10 +46,10 @@ Git
 1. Clone the Repository
 Clone the project to your local machine using Git:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Gemechu-G/Time_Series_Analysis_Code_Change-Point-Detection.git
 cd brent-oil-analysis
 
-Note: Replace your-username/your-repo-name.git with the actual URL of your repository.
+Note: Replace https://github.com/Gemechu-G/Time_Series_Analysis_Code_Change-Point-Detection.git with the actual URL of your repository.
 
 2. Set Up the Backend
 The backend is a Flask API. Navigate to the src/dashboard directory, create a virtual environment, and install the required Python packages.
